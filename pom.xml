@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>clinic.programming.time-tracker</groupId>
     <artifactId>time-tracker-parent</artifactId>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
     <version>0.3.1</version>
     <name>Time Tracker (Parent)</name>
     <description>
